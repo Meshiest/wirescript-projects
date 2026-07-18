@@ -1,0 +1,3 @@
+*.brz
+*.brdb
+!prefab_*.brz
