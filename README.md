@@ -11,6 +11,8 @@ with the Wirescript compiler.
 
 - **[Secret Hitler](secret-hitler/)**: a complete implementation of the social-deduction
   game, driving a physical board for 5–10 players.
+- **[Coup](coup/)**: a complete implementation of the bluffing card game, driving a
+  physical board for 3–10 players.
 
 ## Wirescript
 
