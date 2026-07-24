@@ -15,6 +15,8 @@ with the Wirescript compiler.
   physical board for 3–10 players.
 - **[Skyjo](skyjo/)**: a complete implementation of the card game, driving a physical
   board for 2–8 players.
+- **[Codenames](codenames/)**: a complete implementation of the word game, driving a
+  physical 5x5 board for 2–8 players.
 
 ## Wirescript
 
